@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Partidos SYSTEM "DTD.dtd">
+<Partidos>
+    <Fecha>15-09-2023</Fecha>
+    <Partido>
+        <Equipos>
+            <local>Mazatlan FC</local>
+            <Visitante>Cruz Azul</Visitante>
+        </Equipos>
+        <Puntos>2-2</Puntos>
+        <Goles>
+            <Gol>
+                <Jugador>Nicolás Benedetti</Jugador>
+                <Tiempo>minuto 14</Tiempo>
+            </Gol>
+
+            <Gol>
+                <Jugador>Bryan Colula</Jugador>
+                <Tiempo>minuto 39</Tiempo>
+            </Gol>
+
+            <Gol>
+                <Jugador>Diber Cambindo</Jugador>
+                <Tiempo>minuto 48</Tiempo>
+            </Gol>
+
+            <Gol>
+                <Jugador>Diber Cambindo</Jugador>
+                <Tiempo>minuto 90 + 2</Tiempo>
+            </Gol>
+        </Goles>
+    </Partido>
+
+    <Partido>
+        <Equipos>
+            <local>Tijuana</local>
+            <Visitante>Toluca</Visitante>
+        </Equipos>
+        <Puntos>2-1</Puntos>
+        <Goles>
+            <Gol>
+                <Jugador>Carlos Gonzales</Jugador>
+                <Tiempo>minuto 12</Tiempo>
+            </Gol>
+
+            <Gol>
+                <Jugador>Fernando Madrigal</Jugador>
+                <Tiempo>minuto 18</Tiempo>
+            </Gol>
+
+            <Gol>
+                <Jugador>Carlos Gonzalez</Jugador>
+                <Tiempo>minuto 12</Tiempo>
+            </Gol>
+
+            <Gol>
+                <Jugador>Robert Morales</Jugador>
+                <Tiempo>minuto 90 + 6</Tiempo>
+            </Gol>
+        </Goles>
+    </Partido>
+</Partidos>

@@ -1,0 +1,11 @@
+<!ELEMENT Partidos (Fecha, Partido+)>
+        <!ELEMENT Fecha (#PCDATA)>
+        <!ELEMENT Partido (Equipos, Puntos, Goles+)>
+        <!ELEMENT Equipos (local, Visitante)>
+        <!ELEMENT local (#PCDATA)>
+        <!ELEMENT Visitante (#PCDATA)>
+        <!ELEMENT Puntos (#PCDATA)>
+        <!ELEMENT Goles (Gol+)>
+        <!ELEMENT Gol (Jugador, Tiempo)>
+        <!ELEMENT Jugador (#PCDATA)>
+        <!ELEMENT Tiempo (#PCDATA)>
